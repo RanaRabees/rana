@@ -1,0 +1,46 @@
+this is rana test text
+
+
+
+
+
+icons:
+home;
+import{ Entypo } from '@expo/vector-icons'; 
+render
+<Entypo name="home" size={24} color="black" />
+
+
+coffee;
+import{ Feather } from '@expo/vector-icons'; 
+render
+<Feather name="coffee" size={24} color="black" />
+
+science
+import{ MaterialIcons } from '@expo/vector-icons'; 
+render
+<MaterialIcons name="science" size={24} color="black" />
+
+heart
+import{ AntDesign } from '@expo/vector-icons';
+render
+<AntDesign name="heart" size={24} color="black" />
+
+earth
+import{ AntDesign } from '@expo/vector-icons'; 
+render
+<AntDesign name="earth" size={24} color="black" />
+
+QQ
+import{ AntDesign } from '@expo/vector-icons'; 
+render
+<AntDesign name="QQ" size={24} color="black" />
+
+
+aircraft
+import { Entypo } from '@expo/vector-icons'; 
+<Entypo name="aircraft" size={24} color="black" />
+
+microsoft-xbox-controller-menu
+import { MaterialCommunityIcons } from '@expo/vector-icons'; 
+<MaterialCommunityIcons name="microsoft-xbox-controller-menu" size={24} color="black" />
